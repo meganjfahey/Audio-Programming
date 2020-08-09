@@ -1,4 +1,3 @@
-//Megan Fahey CMPO185 Assignment 2 300438767
 
 SinOsc s => ADSR env => NRev verb => Gain g => Echo eco => Pan2 panner => dac; //Setting up signal chains.
 SinOsc s2 => LPF lp => env;
