@@ -1,9 +1,9 @@
 # Audio programming project
 
 ## Motivation and goals for project 
-Musical composition. Most complete version is not in a song format, but there are a few versions of this piece. The piece started off as a song idea composed in Ableton Live, then was modified to fit into a digital music project for an audio programming course using ChucK.
+Musical composition. Most complete version is Digital Music composition structure, not in a song composition structure, but there are a few versions of this piece. The piece started off as a song idea composed in Ableton Live, then was modified to fit into a digital music project for an audio programming course using ChucK.
 
-In parallel to the programmed piece, I have been developing an acoustic version in the format of an ABAB song format. This acoustic version uses vocals piano. Work on the piano accompaniment to the song has also been carried out through notation in MuseScore. 
+In parallel to the programmed piece, I have been developing an acoustic version in the format of an ABAB song format. This acoustic version uses vocals and piano. Work on the piano accompaniment to the song has also been carried out through notation in MuseScore. 
 
 The goal for this musical project is to integrate the song into the programmed piece structure, so that it can exist as a combined version. If I find some sounds in this process I would like to see taken further, I will branch out and use some more advanced languages/DAWs/audio-modification softwares, and add in live recordings. 
 
